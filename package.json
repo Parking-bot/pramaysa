@@ -16,8 +16,5 @@
     "patch-package": "^6.5.1",
     "puppeteer": "^2.1.1",
     "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
   }
 }
