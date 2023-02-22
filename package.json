@@ -1,0 +1,23 @@
+{
+  "name": "robo-que-acessa-sites",
+  "version": "1.0.0",
+  "description": "Bem vindo ao repositório com o código do vídeo https://youtu.be/4W55nFDyIrc, fique a vontade para mandar dúvidas, críticas e sugestões lá nos comentários do YouTube e se tiver alguma ideia para melhorar o código #mandaPRs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1",
+    "patch-package": "^6.5.1",
+    "puppeteer": "^2.1.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
